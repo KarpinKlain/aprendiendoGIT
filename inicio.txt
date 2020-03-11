@@ -1,1 +1,2 @@
-empezamos con git
+empezamos con git prueba de continuidad de testo en linea
+ mas texto de prueba
